@@ -95,6 +95,8 @@ For more details on saving and restoring sessions, check out the [Authentication
 | Add group participants                           | ✅                                           |
 | Kick group participants                          | ✅                                           |
 | Promote/demote group participants                | ✅                                           |
+| Leave groups                                     | ✅                                           |
+| Group membership requests (Approve/Reject)       | ✅                                           |
 | Mention users                                    | ✅                                           |
 | Mention groups                                   | ✅                                           |
 | Mute/unmute chats                                | ✅                                           |
@@ -104,9 +106,14 @@ For more details on saving and restoring sessions, check out the [Authentication
 | Set user status message                          | ✅                                           |
 | React to messages                                | ✅                                           |
 | Create polls                                     | ✅                                           |
-| Channels                                         | ✅                                           |
 | Vote in polls                                    | ✅                                           |
-| Communities                                      | 🔜                                           |
+| Channels                                         | ✅                                           |
+| Channel administration (Invites/Ownership)       | ✅                                           |
+| Labels                                           | ✅                                           |
+| Status/Stories (Send/Get)                        | ✅                                           |
+| Scheduled Events                                 | ✅                                           |
+| Orders, Products and Payments (Get info)         | ✅                                           |
+| Communities                                      | 🔜 (Partial support)                         |
 
 Something missing? Make an issue and let us know!
 
