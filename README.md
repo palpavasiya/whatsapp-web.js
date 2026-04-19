@@ -43,6 +43,15 @@ pnpm add whatsapp-web.js
 
 Having trouble installing? Take a peak at the [Guide][guide] for more detailed instructions.
 
+## Getting Started for Beginners
+
+New to `whatsapp-web.js`? Check out our **[Beginner Guide][beginner-guide]** for a clear explanation of core concepts like Chat IDs and session persistence.
+
+You can also find focused, easy-to-understand code snippets in the **[examples/][examples-folder]** directory:
+
+- [Basic "Ping-Pong" Bot][basic-bot-example]
+- [Sending Media (Images/Files)][send-media-example]
+
 ## Example usage
 
 ```js
@@ -163,3 +172,7 @@ limitations under the License.
 [contributing]: .github/CONTRIBUTING.md
 [whatsapp]: https://whatsapp.com
 [puppeteer]: https://pptr.dev/
+[beginner-guide]: docs/BEGINNER_GUIDE.md
+[examples-folder]: examples/
+[basic-bot-example]: examples/01_basic_bot.js
+[send-media-example]: examples/02_send_media.js
